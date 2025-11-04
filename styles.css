@@ -1,0 +1,90 @@
+body {
+      background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.post{
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    background-color: #fff;
+    overflow-y: auto
+}
+.header{
+    
+     display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.image-container{
+   
+    width: auto;
+    width: 100%;
+    height: auto; 
+    display: block;
+}
+ 
+.header-left{
+    display: flex;
+    margin: center;
+    
+    padding-top: 10px;
+    font-size: x-large;
+}
+.header-right{
+    margin-left: auto;
+   
+    padding-top: 10px;
+    font-size: x-large;
+   
+}
+.user-info h1 {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1; }
+
+.user-info p {
+    font-size: 15px;
+    margin: 0;
+    line-height: 1;
+}
+.image-container img {
+
+    width: 100%;
+
+    height: auto; 
+ 
+    display: block;
+}
+.footer{
+    font-size: x-large;
+    
+}
+.post-icons{
+   float: left;
+   padding-top: 10px;
+}
+.last-icon{
+    float: right;
+    padding-top: 10px;
+}
+.comment {
+    clear: both; 
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.comment2 {
+    font-size: 15px;
+    line-height: 1;
+    margin: 0;
+}
+.margen{
+    overflow: auto;
+}
+.comentarios{
+     padding: 10px;
+}
